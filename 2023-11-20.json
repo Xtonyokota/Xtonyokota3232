@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Lewis",
+  "age": 53,
+  "address": {
+    "street": "Wuoz River",
+    "city": "Jijtico",
+    "state": "AZ",
+    "zip": "99571"
+  },
+  "contact": {
+    "phone": "(358) 420-9700",
+    "servicePhone": "800258232"
+  },
+  "birthday": "1998-06-06T09:31:53.792Z",
+  "ip": "192.113.243.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Coco fow ovawocpoh noc nedomode jipcivtak az azewuije mubvaj fucmocu sorroj jarkil. Jujhipabo vaz namvapil ide vo gu oturiw ji ro ukace pow jihgubu dig na curuw me ifufedwec miwmi. Oho gep pifot aga ferakco tofowira gi we pagop do uhni ob ifilon caliw gesog zehgewdu azlijlam.",
+    "bio": "Lil mabilis lokmidiv vignisde magwifdil efco lerjoc begot moilevi pe ab nivbat ogakaik misihova. Hug kuhpe soih taeb laohajov wiik fuwmucet zakavna rauwu dehvidob bo do ma. Tosi pidgon hupuz budlaoha ijecguk hiazuvam va wob zif wefvige naszov hose fid."
+  },
+  "apiKey": "d29b171bf2df05a4b772b61e200752049335cdec6aa3b70f60e7cc1c7d888647",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
