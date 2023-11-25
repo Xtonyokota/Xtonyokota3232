@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Simmons",
+  "age": 31,
+  "address": {
+    "street": "Jutod Pike",
+    "city": "Zoljaiwu",
+    "state": "VT",
+    "zip": "67586"
+  },
+  "contact": {
+    "phone": "(888) 204-9751",
+    "servicePhone": "800445512"
+  },
+  "birthday": "1989-10-10T03:41:44.956Z",
+  "ip": "138.206.248.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Kikwatune hof haraike ajupu sovilon jileor witus wopav jevusuer hu nonzeaha ciz. Radot fasarip koru igci tefikkon gakizafo vi pa uzozi sopnovsot zu vu imiheuha elvo hu afko ju wu. Apu laolebeh zijrup zet lin su jiggu hit kogom ubusujut hofo rulzo jibozibi lacu gi.",
+    "bio": "Jedatik kowjube mu gesakiw ru pafifuw epvaz ijmiwdu ze so vif nazjasab uv dijca bin ikafe ce anaesbad. Dozpaj sihfidpi zewi oparugveb bosipe bitojuc ipteso rauzime fag se zahrom wevbusbe. Sekze manalac rofu ke wub gop wafumu hito evjo kuviwa co ac gu."
+  },
+  "apiKey": "8eb6bfe95aa245638ab8688057f4f4ee992c381f47e3024cad58e3e78c589e4e",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
