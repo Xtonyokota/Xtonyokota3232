@@ -1,0 +1,26 @@
+{
+  "name": "Steve Young",
+  "age": 38,
+  "address": {
+    "street": "Ehmow Glen",
+    "city": "Dorfaer",
+    "state": "MN",
+    "zip": "24016"
+  },
+  "contact": {
+    "phone": "(810) 267-5837",
+    "servicePhone": "800422117"
+  },
+  "birthday": "1987-02-04T04:49:22.361Z",
+  "ip": "151.5.142.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Gimlo feibju enapa vos nebwomoj ekwa nezi awako ku ovufe ke zajo ligdu ujodanu hud nage acuvu. Cuzavpi aluef mohnen ewwab zatzicso fepin la ijoemiem delhu atojuknoh aksev adjidze dig woibe. Ru zofbu hu ho puw jodarpu jif risiz co bu umi puv isasi sornunum. Hoace hise ipalabon go vi zelafdu ti jivson lu zinoz etep viri gahlu foslekum zatkat jo.",
+    "bio": "Fojo ofzap ne wo ha durse zasuov ge zecjottat kezevba wuhji gol. Pelojrek no ige fokkavmu lali gimob vesnoran bujurep gu palheb guzsom jef nummabiv hofgokez wi wi ombewer. Dim cetveh cupku endon ne tokfo ugapevce kolji ajiti fu ecemi vawwi fu ro. Wew hiepso pucav av dapiw katom cow puvde hudareh un tawpiw beuc re urahilov huhfut pen."
+  },
+  "apiKey": "9eb48dfafc1c068234b4b00d214de7026578528d764bcc0fa0c555586709648e",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
