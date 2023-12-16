@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Todd",
+  "age": 42,
+  "address": {
+    "street": "Latki Street",
+    "city": "Gauvwu",
+    "state": "IL",
+    "zip": "51682"
+  },
+  "contact": {
+    "phone": "(735) 878-4306",
+    "servicePhone": "800912222"
+  },
+  "birthday": "2002-05-27T23:21:14.101Z",
+  "ip": "144.34.134.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiigeha joikeug wez ugubavsa covumgoc lumbavem venguk ocagido mobjevti leserhu ubfu pupzawi wutcajtes cetpucog binujro. Li zadforib huwabniv uvirinat bizmuba cajoleko tagoceik hipwodbum zekor zus zi oboiso. Utlecro tejrun wuneku gakim zitzeb lohbaw na vos nocahso woguza bofohi vohzus ru uvonaiv sano.",
+    "bio": "Goerjus ijdi cacsovba ci pusdav tehon wooco mu esaesez dupujut emcitu jijueka pulac ji ezaesupin ego culi. Somvurji fu aga je waznura nonum sim rebocpi ki ewasu so dac biwos damo. Ze ki dob cuhar sinow celov ibaed subbipec tih lilji icafe rizjuco at zemoda zaida. Ba bonnu pomvo gebope ze colav goefrub zumsaja miseva ose ubtu timweam rulde neddez zuwadhis gobik vutkihu zi. Ejuwiiku nol fepohwi ji ah ecki webu daem hihavze ocbamu adebim wurda pabetlus id. Daw hoc waj kuz na ruw ot okje zobsoh mebjop hoffiw nuar eni sarezuv. Feegse wazkokek useja boz bocaej jeup zona jikkof sodeeha kabviosi po vetwahnac nente mag guh jip."
+  },
+  "apiKey": "ae6bc5d7092d6104ccdd466f49625e516b00d88b3f0c8fa6fca6587a063cc9af",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
