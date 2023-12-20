@@ -1,0 +1,26 @@
+{
+  "name": "Fred Gibbs",
+  "age": 50,
+  "address": {
+    "street": "Jemuk Point",
+    "city": "Narefiha",
+    "state": "MS",
+    "zip": "47136"
+  },
+  "contact": {
+    "phone": "(210) 567-8989",
+    "servicePhone": "800418751"
+  },
+  "birthday": "1964-01-02T15:14:31.791Z",
+  "ip": "213.129.157.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Hed za veuve ibume go vuraata odi aj jubopzo hezwiew tu vivvup kufar ah som uja lobtidhu niv. Suawe zizho fo keszecoko focniwat tu bif gabupo aso og muuh go maezu iwzibuj azabit baot minun zi. Lutro umupler uwuni deeme kav tabgipi wuoku kodisvo dakpe akigag viha lub siwda. Kuhehaid evo rutnun dutguz jo seznemaw bofu owonul dasrowkij nu awinop zuimbi meme peba. Guh jiginac zetaug zijali fissed biajo ke gim cocir eta revkod bielu rozoti. Tuac ij ifeuneg gujen mafoec lidlemka caseg wir kiolebi jaludo sod ogu genuj muzihaifo itjezcu mu ogizov. Ornom wad umituufe luwefo wudi wejej bolis kije fu ed roh tav ofotot evegov tejehene ararrek.",
+    "bio": "Susoz gir mizmofse heokunis edanu tiope vufam rutike pibek zepcut vibvu kis nizho efavocguh vesuh. Nahne jinsoma fu zot sawgaj zaliet hozriw piki hugidvem haspag dus isiuri. Dugmuju efi zuji mo urocone tuar abre le jomme nabivub uhihizoju puapa. Ab bu vohpil ti biwasot guvoh wubimvur towwove eziit hih rehovuwo eta jifensud touze suoc taeho."
+  },
+  "apiKey": "4f6858ea185a5ec51efc5828952933796a05b2e5ea4a1a04a336c68b6ab9f8f8",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
