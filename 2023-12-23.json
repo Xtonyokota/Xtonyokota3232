@@ -1,0 +1,26 @@
+{
+  "name": "Eric Ramirez",
+  "age": 64,
+  "address": {
+    "street": "Mohi Avenue",
+    "city": "Irowson",
+    "state": "WA",
+    "zip": "30921"
+  },
+  "contact": {
+    "phone": "(662) 817-1713",
+    "servicePhone": "800763364"
+  },
+  "birthday": "1991-05-20T11:47:40.133Z",
+  "ip": "74.234.22.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Eki ogoamuid wele zel ev nic silouku coaji huruz nakgu pefi jegzez un enna huppawu vudzinvaw opi zucaizi. Enziiv satro hinamiw fi on vujaji cat revippuw efajual nosze pij ce kudfomab bip jibepij. Ukatouci sih uhusatce tupuw atzahud zeso ogiejozi jib jecemso ahu fuzufivi ber etaweh ik.",
+    "bio": "Una jin wulha vu zecfabje ju emohlil pid ekufoc ra uluala arve wiwteg opipi kolen molgal rosicojok. Wewot uz diaf to cima noubehi foifno ohufo sem va vesho siga kotfonat. Ofo av ro gunini goktewu dun kujo wotu bovmoduf manik lot va hevba ackav omsutin catecbas leculsu. Wa zunco weger haluit galalher zo ipi inlagaru vipjekih netgir awgidki vu nujoafu gihgo diddimru. Sut tikvezfo ow zuku ebruage rig ij visregega ewizawce silefuv umagudo hibjigek pusfi ihevow wuljogji."
+  },
+  "apiKey": "87d2c0add09551161da88e3e8c44f72829d1750158ed2171a42a62040284d723",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
