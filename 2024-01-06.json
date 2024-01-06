@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Snyder",
+  "age": 35,
+  "address": {
+    "street": "Kume Parkway",
+    "city": "Woatgi",
+    "state": "NJ",
+    "zip": "91878"
+  },
+  "contact": {
+    "phone": "(343) 961-1235",
+    "servicePhone": "800633243"
+  },
+  "birthday": "1979-09-02T12:47:03.123Z",
+  "ip": "130.49.213.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Kolofnur ju nakizkek nawsakzi ene zum lifeba cenjuzu zovsu voet tafa lulraduc lub wo fidnerof kod. Bukrez elufeze pajag peva ludibul puhbazi puzaw egi bijluz te vemi teon li vavucab esfaj midsimwes edaco. Goj huopvo uhafig hojehezin dassuwiv sicseg pi tuksuzi cuonisap dec aw fi uj hakni jovzevez zeag met bih. Ribuk imojasiz kokuku vivot ti zumno tep dad isi vus mof arilo lej cumzid. Ci nejhongo ejukoti ba fac suc gip reuk zabog ibi zuov sonjisge lowimzub muwwup tochitlih.",
+    "bio": "Kudiles forhehsoh wuno cemejca nesej fadwu gepinir homwehat nesiz lasvek osrodgup ekikuknuv aj il zanatjol finfiruz hanalues orecomel. Mezuga duvughe liiseto moude laculavo jalnir wuc fifon ev gejikmi ri macovrus degpa botjowo. Duj vevwauh goko potfuk ge ebe orugibus wahsorwen kuccute do baso jah giftag put sar pobdup sucwowbu lokuhek. Nulu eri uzi ruloh re kin cesov pif oskev ko leja fubepis."
+  },
+  "apiKey": "5ba31a350ee0461281a144df5d22c7fb2cad37b5dae2c7e751b2dd8150638575",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
