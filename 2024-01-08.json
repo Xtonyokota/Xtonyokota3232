@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Palmer",
+  "age": 35,
+  "address": {
+    "street": "Inhaj Extension",
+    "city": "Kafimawot",
+    "state": "PA",
+    "zip": "49099"
+  },
+  "contact": {
+    "phone": "(585) 688-4702",
+    "servicePhone": "800418659"
+  },
+  "birthday": "1985-07-01T12:14:44.051Z",
+  "ip": "148.63.187.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Faz odaar kuperoc zagvof lik mi zo zeworvoh icebinuv howwejo mejasawe himlugji hesica lurorip korug dolub afo. Gar vuphe su jonsucli silab noescog jicid cemupge cocbowi haroj nidbi cojuga. Janav vul kalne gar piro vabgi re egdudin ge re gipom ovuinobid rocijjif.",
+    "bio": "Ve dagve zihdilom ga ka hohopki sam cutgotez nosuk covmab porgid atulo bagarad kef. Hekwid pabzehi talijoig putakel puzwigvu lulesu keci refej poswiw cizderepa pugo rebaso. Dahwof zamma uve hucutad folellu azref nauvu vucpo jiwo urwajab juz awedah huk jefvenga. Ge ra usguf garucu gojgo bip be pe sipbene ibta izhawkof ovi. Figje monber pim ega dolunnim rijovil rowkaz zetetot gasosu poere dusa urezoaj daazjog ra tu. Ze gi fe awupapaf afano suto temvafjo za ijucik fig arowian za zev dod jim. Puew nuremhuh tacruro pepikaoj potik weizzo bevalu uggil bu fitunod fa obuiriupu acrono bomu doj caeczuj hicukte."
+  },
+  "apiKey": "e6740ed7bb266cd0c68cde00c9fd1478da1c9d4aa0194e6305817fa27c7f7524",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
