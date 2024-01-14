@@ -1,0 +1,26 @@
+{
+  "name": "Mark Evans",
+  "age": 60,
+  "address": {
+    "street": "Lokme Plaza",
+    "city": "Veinolir",
+    "state": "VT",
+    "zip": "91782"
+  },
+  "contact": {
+    "phone": "(353) 847-7515",
+    "servicePhone": "800377796"
+  },
+  "birthday": "1997-08-27T02:35:30.782Z",
+  "ip": "242.119.146.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Bifse refiju zohofzuz odageh mehbed jofu am lun sejar ze ti lum madcize kasik ob otgi zinbez. Samotca cun cosifan ola vaka halfes ranic gifop jarbama ule vujomo ru taoni cud ul nusva wu reral. Poworar ophe fojat ewe sisuc vuj ozoti zav jawcatsuz aga gu he dov zuw kimepoba ec ro natirome. Wut pihuzo gieju aw ud zok holenes gostaob dirfouhe supo dun hoho caiwicel sutabo ger. Fesirgu voc na mohe rek gatnup gapzikme gimef jiro faiceate hup hullure ke ravdujun tap.",
+    "bio": "On le dak ivpes sinikaf vaupa la fes weitu mukitor onzara puwez lozo goppag kutge vol im rir. Fu aru cube gek me wir pon minon saijacil bawuje sal molde paupe zawolsav. Fiv horipda guf iz or cazarbu gu epimus emeimi acki nose abci jokiuw agepe. Fom dapfu iwnit bag fo bafiri ibajesom ap lib nid uj wo egzevtoh."
+  },
+  "apiKey": "019a1df7e7bc8b3388cd73f6282213581c58b395637ae72f692c6c48ad4c0797",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
