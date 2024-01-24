@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Jones",
+  "age": 30,
+  "address": {
+    "street": "Nura Boulevard",
+    "city": "Okausawa",
+    "state": "OH",
+    "zip": "32792"
+  },
+  "contact": {
+    "phone": "(601) 267-8271",
+    "servicePhone": "800532638"
+  },
+  "birthday": "1999-07-23T13:30:39.040Z",
+  "ip": "223.246.73.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Le oki elozamid kuwovsa dori di gupeki nulug gik sublij aci vutagup igazare. Is wi sina wudte ev noftu kow cocuina pihnez okanoil rese lu kumi. Ba ku wasreani zimzi esa iwus guedlo ob hitohnon go goj vukdimaz sovowez ejilu ibsaneh kut asvuati derufaz. Ut fendud idecevbu gerdogcuk sukehaze ajcuf opuvi judvawko cofagite ze gemepo iwaboabi ov ocjebif. Nele keh pitzu gudbif kanbuvaw zavlusniz on zavgeat anoce beljour tiltes fupfufo nevopbit riv ino. Ekfukhoc de jujsatzoh fijto mepvu enufenijo fosad mav biz rucari evzuh agahiac pe bujcutcif ososelsiw owcired.",
+    "bio": "Cecjudda zaskag mikvo cuv pisca buko re liuv iwejasge af rin etilobwi paj ov wab suvared fidbowo. Fisigak jibcogoci sobukvam vofpim vamne kuif berpi cidafogo ejoamu vote jojidibe kutwi. Enu kotamas zib uze afju ta usi wiz golku mu dig caup jihresaka maju cov uceobe dejre ziwfotkam. Daczukih sijwofca fa fizamzun fizpih kosvuspad fuwa popduiso di ejpoh to iruco dovet wabbe. Madehi zogobo gisnemneh mucso koninabin la mobatus de ze owagate zow rer hofimjat."
+  },
+  "apiKey": "270ccdd6b2987aead7ff57766f2a2d0c1da05e0c847c90eb4cbe31515a266ffb",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
