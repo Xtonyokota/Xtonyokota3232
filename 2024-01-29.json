@@ -1,0 +1,26 @@
+{
+  "name": "Jon Owen",
+  "age": 20,
+  "address": {
+    "street": "Tokki Center",
+    "city": "Idsuda",
+    "state": "MD",
+    "zip": "90604"
+  },
+  "contact": {
+    "phone": "(428) 946-3971",
+    "servicePhone": "800568888"
+  },
+  "birthday": "1988-07-16T17:53:16.353Z",
+  "ip": "109.125.180.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Rebeaso cet wa bamsaklim jusbunne vobe gu kit serli haab oreacana foitma zen dectecfof bu. Reipako ehaku per giz tuzani divut hibdis fecokat inefomjig ogakig zanujor tiwjook lur unoona ikarnu levoba. Nodav vicim eg lohhoda uv do vom gobu magifu cewriz cusuge kiparmi av gol ema.",
+    "bio": "Ipu ra babwu kebemi tel hec iweew katrieva rezolze etugat bifu tob ofak. Ajodahno fu ahcano sotbibdef ecuno nosasof rusbar aso taslog tun me taluz duos cuj limuvela. El jepe lacalpel debuvho ekikuv lutothes parohi hifronis menhig wodu eca bulihjoj vepukor tocriksuw kudhetud lejenok fehah are. Bo ke ez egaru gawmooli uke bop newmifu wupkugzih iho enadoma piwila. Ez porod gih hil narrife jinsasge igo fasep ijarareku sapovacu fi mihvo."
+  },
+  "apiKey": "df996420cb24c10c005becf0ff250e26069de2b2e730ab2f6bef494106d00934",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
