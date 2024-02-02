@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Bridges",
+  "age": 41,
+  "address": {
+    "street": "Ruku Turnpike",
+    "city": "Kasdewon",
+    "state": "KS",
+    "zip": "44214"
+  },
+  "contact": {
+    "phone": "(512) 873-1928",
+    "servicePhone": "800874193"
+  },
+  "birthday": "2002-12-18T07:24:15.529Z",
+  "ip": "7.157.151.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja ji ifzo zevurov forad reapuc vaugoet votruprig jenror mezem viw duhit odoju etlalcu sidozun. Kav ukbeud zu feg ful pasu toc hiwked ani pek mu efo roorip lewoiwi wu ci jimgapo. Litem zanawzi famso ihgeto ra fev ola mog saobo jasgi ivzaj zuovi bu fice lozvuw pozobu cira faovco.",
+    "bio": "Jatvuz lekco dom as siuw esa muda pamujinid ebiesi tedjuptu zazoz pocse zemac osuzozat mude. Vo godweiw fec jusug voov evtus azifuso ekogasopi musi zothic wemuti lo gohe fectu isoro zammemkad. Kanlul keno opa kum lecazu beidoz fofziwuh wasjoro fivzubniz pa jac ifa vedizbuv somomieli mo. Vofte ejruwpon ij na ubololub re citfoh rorjicu tufmesva caj cojewki ipefab jewlefpi fuz izciemo. Egpuw wellad dirofsow muh vuh candakvas po nu hahed gobet natig mu kikfa zaha wojeskan. Ulokesga wif wuhozgi wujucov viuj tab salisimo eriju serumsi vemo puflu apdo guto ozegawa. Pejheget luepa bece cawbuf wuogivit un maw urocecoh huvohop gekeplu fulgebgi ke guow li."
+  },
+  "apiKey": "981cb8729ad858fbc55c5546b97581fe43796ef7d0ff795fb02d5dc56e71e8e1",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
