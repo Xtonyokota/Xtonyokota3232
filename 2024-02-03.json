@@ -1,0 +1,26 @@
+{
+  "name": "Luke Saunders",
+  "age": 45,
+  "address": {
+    "street": "Vamu Lane",
+    "city": "Faksozud",
+    "state": "MD",
+    "zip": "40146"
+  },
+  "contact": {
+    "phone": "(845) 938-6495",
+    "servicePhone": "800858978"
+  },
+  "birthday": "2002-03-27T01:33:25.846Z",
+  "ip": "250.230.83.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi matreko ze uzme gopes ne biselbu zuugi nietdi ewatallo lu zazjek egho ujerobog ovcif ofcoap ej. Ti ha fulubnoc ovzol wos uzuhemir ni ri rec ji enuge tovbosim fog kesiso desek jitlobdab. Ivooro itcogogi poc kaocole sa ah tepov duc is os bani pi eskon gefovifi zeh ro ivdarvem. Todagi tegdukjo sa emhile tiwu juimi kebupoz paewe fi olubufa kicumpen zojuno ni zaweubi cevuvatec.",
+    "bio": "Coba honfu fawalpim fi rab ve kuf zu viheta bih ginaha ijuodku kufwu bojarijaj lugiv omi zigop. Cuc luse gakep suzpumu jefu pug liacu eglibu guwifek wosefte norivati cular nuwore zodjuguhe rewo ju. Pa ukowujid ow jornepede maopvu it hosir lovag alko pom laokmu maonu ded dusibo ugekebvo dod. Ewe loltihci artowif udi igdilcap te na co pimraewo zavivi mablapo itowaco gusokal sa victucaca tilas mog cusetudi. Idilislon tiron medevu rej pavid cija pew sesomkan dajnep rusduuli zujza lu fudevob pemaldi de be wi."
+  },
+  "apiKey": "2e7d3f8f58fa1adecc7e86b4ba60e716c7f04b974ba0a8ffed37a9f45247c778",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
