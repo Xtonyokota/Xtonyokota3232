@@ -1,0 +1,26 @@
+{
+  "name": "Mae Houston",
+  "age": 40,
+  "address": {
+    "street": "Ewigub Loop",
+    "city": "Inziohe",
+    "state": "MI",
+    "zip": "04677"
+  },
+  "contact": {
+    "phone": "(679) 611-4106",
+    "servicePhone": "800124982"
+  },
+  "birthday": "1994-09-16T12:32:08.492Z",
+  "ip": "238.110.89.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki bo kec liv ro fer zelhanon fuj aluluv suma dewuzih vateco. Uzo cagisis abuekwe ogofenik jupoul mepu durukoj alineaz na fu hohcu vo docuhibi cejpog omvoc gublol ul vas. Ku ho narewki uw tu zaphel fojbak oceginiv hic omwumu ro ruzzogu voz efmak wo.",
+    "bio": "Tostuw zab fa rot uwuiri ode bemibvip futo un gaukku ki suswomac oma pib ma senmac osibocso. Uhe tomemu bufheder kigmamgid im juitbe oti pabweet avum vuspigora oluwab umogezke. Titicpog zewegu feru duivzu jemab ma dasim lijihif jac tivonoawe etnokhu naltivu awimurtuh pu."
+  },
+  "apiKey": "26730f99617de9785c5a4e7abfa6530615704c0febc83e22389b9f62c40a60d7",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
