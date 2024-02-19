@@ -1,0 +1,26 @@
+{
+  "name": "Clyde McDaniel",
+  "age": 56,
+  "address": {
+    "street": "Edosis Court",
+    "city": "Salefko",
+    "state": "NE",
+    "zip": "34915"
+  },
+  "contact": {
+    "phone": "(725) 813-2502",
+    "servicePhone": "800383932"
+  },
+  "birthday": "1984-01-20T12:04:53.128Z",
+  "ip": "204.105.73.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Sodenhoz sovo ga onikod zo wim pem jiru hos votac ojoobvu miunada. Vico hasad jibod epiadumu rab ze rew ciwat kesaze eged naz nofcujit ruvwak ekemel doboh. Afuludnec amu fo jaatahim jo celusa nosonoh kiremobu tigriw fezrevup okazcil ta ocu ki.",
+    "bio": "Wa bojop movomvok wuowba zozwi heebunek rugizwu ra vas owhuwa ho woforu. Kuhcastes gol cizrorod wepherdef tuku logusuf vefovta piwkadzu dudkaafu got kuku daku kej. Sajek pethin ji lurbeve surkut aco usaru wowe jozkida ben du nimmu."
+  },
+  "apiKey": "952871927ef5bc180694a94e4bd3bd2a592c69230f8a03197b5ba5a6e5b70b72",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
