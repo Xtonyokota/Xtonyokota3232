@@ -1,0 +1,26 @@
+{
+  "name": "Essie Brown",
+  "age": 24,
+  "address": {
+    "street": "Jazga Court",
+    "city": "Edeamimoh",
+    "state": "MO",
+    "zip": "98587"
+  },
+  "contact": {
+    "phone": "(781) 842-5038",
+    "servicePhone": "800251842"
+  },
+  "birthday": "2004-04-18T17:15:48.974Z",
+  "ip": "145.192.23.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Fukarzu vi neujru te bohe magoiru vin azizojet rijuvef desud jajfaj wiza ijasavu nazubas. Hom za kuit zi pafin konufma de ij ruazda ropap azo naj pezfi gevatu. Kol kugdec wahfozel bulbiro gowe zihoj lak lonpigige fuzduzoko oludiz ic locwovi forejag guwaco fobuwten uc.",
+    "bio": "Kutze mez kobancu tazzil ratme tuhlupe ceji mo aw sezise onecuod woffoham vaecaca nelse fapa kesbif lusripas. Ubvu vuvenuopu corgobak idiafna uvtenrid rirosi omupajbuk biw gacweler zep etgop cuwzij apki mir zocigluv hewigiguv. Vu ipaci ikukowad pimjokva tu seumaca ciwikrij zu jonmebhes lu zu zejbuppa in ekoigaze olo. Rememe cavduzic zuwtifaw utevo wiiw riuv bebisnej enidihe worulro deg ve kalot gab luzbennaz gozeki az pesicij bor. Wirubbi le mofolcuw egube cef dewoge efud wi oziep jen wo atfo lahkehuz zugno izrosisu sezus. Lokivpa kerhaoc ke sak pabli hidtec gel muf wev upozelup purelec ohdafcin nejoze."
+  },
+  "apiKey": "191f09285bf429cb2524a736817e5ac390cab703c372c5b679827851f11b1382",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
