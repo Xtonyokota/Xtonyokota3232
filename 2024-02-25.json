@@ -1,0 +1,26 @@
+{
+  "name": "Herman Wong",
+  "age": 53,
+  "address": {
+    "street": "Bevmi Boulevard",
+    "city": "Sopoba",
+    "state": "CO",
+    "zip": "67791"
+  },
+  "contact": {
+    "phone": "(778) 686-2221",
+    "servicePhone": "800323516"
+  },
+  "birthday": "1965-02-17T01:11:31.763Z",
+  "ip": "207.5.27.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Pulez emidugje vedoces virwupike voakdor beltawoh mugipo baben bafraji cimetfij misum wahbo. Uh mid iztisdu siwuc ci kaw hez tetegaaru lules fusre wuwluz jiew. Emiuwho ju ti vazo lew fom cadi zajti bub zunoite zetuto mu ruljala fet lim ciran. Kaz mapo edu woano kanzomiru el gusjag wuhi pagla ehrudrit fenkipge lesderah ti wot awi. Lefwadug fuwdosup piv lebzuk beif tipwa miode ditkiaro fonilci wofev joh la. Fuvmape ceif memekko vic cesmo adniz gukmici azhab gile fac he hum caf poszazo takujoli. Ikvurur awojewi hapalupe tohon enufif voekefi ifuri humek dawi bokifog pikis jawreb duwujebe.",
+    "bio": "Sewu jopaj fiwtohu kuf tu johleblit paop mew enupa lo nuvpucif asolaco kid wil femapo izi. Zuwunib duvvar bojimi vaspubwa wir nauzdu kurukwoz om siogri usoser vu voof zedzo fintekbav ic tal juhveptak zorifliv. Sowlioz ap logmo hugi na navi imrili ho efalul aniral gibzo jegoseho ihovum geduh wapcalso tal ofucisnih."
+  },
+  "apiKey": "ed871eadd2afb415e6f7467265477d7de1650b19194ef66f6098972ad01a8e34",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
