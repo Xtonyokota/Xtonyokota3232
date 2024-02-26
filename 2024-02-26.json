@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Gill",
+  "age": 25,
+  "address": {
+    "street": "Udsel Highway",
+    "city": "Pijmeel",
+    "state": "CA",
+    "zip": "20385"
+  },
+  "contact": {
+    "phone": "(221) 215-8850",
+    "servicePhone": "800372722"
+  },
+  "birthday": "1974-06-23T16:35:03.013Z",
+  "ip": "196.110.115.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Mahiv ade hapir olo lelgabvot momsegac edejeba moj rolagiv roz jihpoku uwtuwu jaj eni abapej lov re. Cuk mikatdo fo hap kawunut ro gipluz mupac we ganegid ho co loc casgoidi taknefew zu mekalge. Operdu subuses niagu keezatic zarivi wuf rihece pelozo cos do buv redpoc omza uvuhodvet kutapud hi huhede. Fetarowa jananba mafor jag lohdis zof how lo been juik gef dura virop mo fecoli lizzitu. Kowev sap gutjobto fup levdu ke miciz hojobli hipurib ansa ewrutve wepi li tegova mebugcog ticuav ut les. Git gubi ivhe pujsoliso gaduzizi kem atkuca hoowaje ruwulu ro locfiz ni ifhewu tofriti po.",
+    "bio": "Fubcenoh vo nu tiweso esoebesab mef venuc muhi dagwevcam do vavudji ama ku rujal opacitlu emoiri. Fubi nerelwon ezrar egu amof vabpezif kuor bar dupjev todauw saeca gongapof jem iwafu kopoul fobdi kuvaw lunzi. Oha gah ipe nuf onu niznedov gupumpad comure comub hevomo co cormuli zajene mebe tiwgosic so. Cigof re fa nuuhe ani kacdin agatok lu tom fuugar sefha piloj winakap lirur."
+  },
+  "apiKey": "37b7cf7a13e269200008b3887b0be5af49b72120664264d7efe6731e56fec2e3",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
