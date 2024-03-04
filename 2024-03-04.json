@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Fleming",
+  "age": 60,
+  "address": {
+    "street": "Gukru Square",
+    "city": "Kezosa",
+    "state": "ND",
+    "zip": "63830"
+  },
+  "contact": {
+    "phone": "(908) 349-5723",
+    "servicePhone": "800253573"
+  },
+  "birthday": "1960-09-27T12:35:04.831Z",
+  "ip": "229.180.150.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifabu ufajo mi duebodu si viavca li komi ciboz towfa fo nuh itnej. Sadirnef wopos fohu apaaheg ca ufo goc ubu oboare codar pojma kekge fagtev. Veruliebi ajoze nidzajok mawso fo gurdani behbubnus rogwasag dishiuj tomefa ez navfe gus bizjil akvoz bugid wew obiaj. Gesse cati dol baofafo jukowucak ecdiv gopguwoj lav nahemzir izi ba kikma. Vifafgig eziwimu hevici gitti gagmainu olatwik ocu ikowu hi fo kuf tow. Lutra wohbejhag po podamjes fazzodum fohifu muzor bu uzuri birwufa oguciz fuisiru.",
+    "bio": "Tocolneb saaso kufovgu den ovola ajiev zaf kuiha pes mufdu jinci sam usaof mopin ezu devkuc detetza. Pujded uh ogiteali pusu ruc okibujmi ras ilce podgu mevuhri hininehe sacibub ga rutiz ojo. Wozod tajgicuj kaz ajo bup osa vezda em cijsa hijo cehbab puapoez joz baw lawiw upo. Wol cekapiar rizuler tigdin woszafi vocifjiz uhzi tazamoic gizono oruwe cubzit bajaluruj wudovco irpahuc vugzedek of. Jil of mezaf avzo zohhi cimuf juz howuril denneb usifo zov tu."
+  },
+  "apiKey": "5123c5b31659913cbf843f0f8b6559b5ae5bcf7c92f9731b7c8195f7ca560078",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
