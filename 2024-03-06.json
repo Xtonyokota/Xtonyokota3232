@@ -1,0 +1,26 @@
+{
+  "name": "Fred Farmer",
+  "age": 57,
+  "address": {
+    "street": "Soomi Point",
+    "city": "Taawuid",
+    "state": "OR",
+    "zip": "22327"
+  },
+  "contact": {
+    "phone": "(739) 455-2782",
+    "servicePhone": "800494218"
+  },
+  "birthday": "1974-04-16T07:22:41.246Z",
+  "ip": "150.97.161.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Iritib mudpa map cejona jem acu fe vo goded olfelpu luk du. Meuf gebaro vibi hofwe luhatub jo joude rovekca vutro ike lipaja loslano cug. Ubtu ufebub zowa duhnil ju od egni ha ak deles feiwuwan mejhe. Vup ikiza dibas za basefi erow razomrin le fi fuavali ji juta iriron kev heisubo ra.",
+    "bio": "Buseg ijajacew culvotciw zel odugonjug hilcab cebehmor joronla gekaje fidim gehpog alodof nu cov. Duwif lur zopjacmi vigcu kif noofojin huw ape nam maw comup ju ki nihiv. Abasuiz ovejuspem gu zu ham alerib ibimi zuawe ce riljom ra get ju cumoba ow gevmum fa."
+  },
+  "apiKey": "0c68e09357260c22c30c38f8654ea87ba36020d1f565e724669862d863eaf0be",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
