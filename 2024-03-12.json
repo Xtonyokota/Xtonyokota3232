@@ -1,0 +1,26 @@
+{
+  "name": "Sue Gilbert",
+  "age": 18,
+  "address": {
+    "street": "Memema Key",
+    "city": "Bolripa",
+    "state": "LA",
+    "zip": "33191"
+  },
+  "contact": {
+    "phone": "(574) 480-9634",
+    "servicePhone": "800785589"
+  },
+  "birthday": "1984-11-10T21:12:42.875Z",
+  "ip": "76.245.26.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Gacur ce sob fon fa ilbav wesguw tuvifid nunicij ezoebatit pisof golef pu iwami telenir wukgugad we oface. His cakpal zanoruf bisilniw nikpuk sag ebica zec ranoh gu pettosa gu ce re. Re dizothol wabja ahaba cufzijgu ketocagol cebjacoh imalobzep lofikimut japber joru gafe atelolca wucifce gurez lozuhetis.",
+    "bio": "Samvednuc lec oraudu ogov afo denrolot jo amu tusdij nomvawnec nontiwse wu sipac ehwuhtif keza. We pawoki kihgiara wabcehmo ejo digri awfokol hopa wo biwnujebi nibojeto kanikem fem vir. Tu ronoji bov hu filacat mebjej or neveuk nunko luuvezi fotrufju wow cih."
+  },
+  "apiKey": "370a32e00fb1b242c187284104b8c1025bca018f0a53645afb3cdfb679c8bf77",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
