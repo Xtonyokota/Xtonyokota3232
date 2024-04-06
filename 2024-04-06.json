@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Paul",
+  "age": 62,
+  "address": {
+    "street": "Joza Junction",
+    "city": "Alfucfu",
+    "state": "RI",
+    "zip": "40999"
+  },
+  "contact": {
+    "phone": "(774) 290-8071",
+    "servicePhone": "800925563"
+  },
+  "birthday": "1966-06-12T19:16:30.292Z",
+  "ip": "133.116.105.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Zabdanu feze liad dadcub okuvusa boviv lag duzto kaktogha guuwupov le tupkaus agfobjuv. Punon begjic jo pijke sadicbu he ucoovwem gabgep oso puzjigeb lesuh puri mam dabpok ci zoruc. Doisweh wawohop riz ca naftegi sec miiko namsutac rovzitfi imavedva nokbit tuz.",
+    "bio": "Eminicji puk zauzi nes imatone afupan da ewpaj winfas honrejuv famjuho fomus tugori fiwa din ecfiad. Ribop he berorok julahfi ow fo ran nafohe imsuc jugzagig luru uj hellise. Cu sa mu sonovjol zahjumig peddid bulitme pozem mu ver viso ewogo eslof rog ju. Musiruw jagze utujofel halmuvhuk loarpe vaaloro remov piw mulukret ajo jepefu gupkivge."
+  },
+  "apiKey": "77e945c6e2d0593838add58be590682c661be8524da2ddb9fc49b3275ca7f94f",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
