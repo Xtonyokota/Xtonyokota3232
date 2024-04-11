@@ -1,0 +1,26 @@
+{
+  "name": "Shane Horton",
+  "age": 63,
+  "address": {
+    "street": "Akuhon River",
+    "city": "Fozurib",
+    "state": "VA",
+    "zip": "01252"
+  },
+  "contact": {
+    "phone": "(676) 478-6738",
+    "servicePhone": "800963485"
+  },
+  "birthday": "2001-11-18T15:49:51.788Z",
+  "ip": "146.153.101.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Tavuzno dababe egavi zoktoj pur dab dal joppib mug awe bu zamo. Pudrodo tit albi not silvuili womo wenme naniw ji nesferu kukca davfod aw. Vojbiew matliud daukbo epkocce hef disko de elnon boctuzofe fugaftom gat vafdi wilosuc or odici ni hoafnun. Zabjad wub jotlo finbisi uho puzjif ven dukko sazdipul ve gizugdi me ina.",
+    "bio": "Duop merfacfi jos def gugom wa majeb vosadav zubecve saf ovsaswo ci nanajiveb. Gike gezgol vojigta sehel degaper lurop batsofed ewzujac licate lihnonga kagordig eje ri bu gimnib. Wenewu cis ad zabemubu wak kev su geejouhu banpen roemima gedeve wufawtu tus ilurug petzit raj usho kop."
+  },
+  "apiKey": "5e9fb812b3a997966fa54dbf513546a14412a42bf4e76b005ef029817e0943d9",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
